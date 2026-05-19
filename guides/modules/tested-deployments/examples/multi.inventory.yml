@@ -138,7 +138,7 @@ migration_spoke:
       #    type: vmware
       #    host: vcsrs00-vc.infra.demo.redhat.com
       #    username: ocpvirt-2w7dj-user1@infra
-      #    password: r9F37-f6MMepF7
+      #    password: changeme
       #    vddk:
       #      image: quay.io/redhat-cop/openshift-virtualization-migration-vddk:latest
       #      username: "{{ container_username }}"

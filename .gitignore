@@ -1,0 +1,31 @@
+# Credentials and secrets
+*.pem
+*.key
+*.crt
+*.env
+.env.*
+*secret*
+*credential*
+*password*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Build artifacts
+_build/
+build/
+dist/
+*.pyc
+__pycache__/
+
+# Ansible artifacts
+*.retry
